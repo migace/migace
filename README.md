@@ -2,7 +2,7 @@
 
 Full-stack developer in Kraków. Python on the back end (FastAPI, SQLAlchemy, PostgreSQL), React with TypeScript on the front, and LLMs where they earn their place: retrieval, tool calling and agents.
 
-I am looking for a role as a full-stack engineer, AI engineer or forward deployed engineer. The work I like most is taking a real workflow, from a tutor's week to an HVAC price quote, and turning it into software that holds up.
+The work I like most is taking a real workflow, from a tutor's week to an HVAC price quote, and turning it into software that holds up.
 
 #### The project to look at first
 
